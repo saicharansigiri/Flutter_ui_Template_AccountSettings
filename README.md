@@ -1,5 +1,5 @@
 # AccountSettings
-##ScreenShot
+## ScreenShot
 <p align="center">
   <img src="https://github.com/saicharansigiri/Flutter_ui_Template_AccountSettings/blob/main/sc/Screenshot_1629551244.png" width="350" title="hover text">
   <p align="center">
