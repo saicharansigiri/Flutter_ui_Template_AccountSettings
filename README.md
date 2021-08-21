@@ -1,7 +1,9 @@
 # AccountSettings
 ##ScreenShot
 <p align="center">
-  <img src="https://github.com/saicharansigiri/Flutter_login_ui/blob/master/flutter_login_ui.jpg" width="350" title="hover text">
+  <img src="https://github.com/saicharansigiri/Flutter_ui_Template_AccountSettings/blob/main/sc/Screenshot_1629551244.png" width="350" title="hover text">
+  <p align="center">
+  <img src="https://github.com/saicharansigiri/Flutter_ui_Template_AccountSettings/blob/main/sc/Screenshot_1629551250.png" width="350" title="hover text">
   
 
 
