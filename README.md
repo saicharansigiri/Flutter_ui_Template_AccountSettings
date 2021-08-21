@@ -7,7 +7,7 @@
   
 
 
-Packages: font_awesome_flutter
+Packages:circular_profile_avatar
                               
-                               font_awesome_flutter: ^9.1.0
-* To know more about this Package visit  [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+                               circular_profile_avatar: ^2.0.0
+* To know more about this Package visit  [circular_profile_avatar](https://pub.dev/packages/circular_profile_avatar)
